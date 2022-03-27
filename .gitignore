@@ -1,0 +1,2 @@
+# node_module配下はGit管理下から外す
+/node_modules
